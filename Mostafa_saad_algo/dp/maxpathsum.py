@@ -18,3 +18,11 @@ def maxpathsum(r, c):
     return dp[r][c]
 
 print(maxpathsum(0, 0))
+
+
+
+
+
+
+
+
